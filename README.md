@@ -1,6 +1,6 @@
 # React Weather App [integrify]
 
-Weather App made with using Accuweather API to get city forecast [DEMO](https://fabulous-cuchufli-b874a3.netlify.app/)
+Weather App made with Accuweather API to get city forecast [DEMO](https://fabulous-cuchufli-b874a3.netlify.app/)
 
 ### App Screenshots
 
@@ -16,6 +16,7 @@ Weather App made with using Accuweather API to get city forecast [DEMO](https://
 - [x] A responsive user interface styled with tailwindcss
 - [x] Used geolocation from browser API
 - [x] React concepts utilized
+- [x] PWA
 
 ### APIs
 
