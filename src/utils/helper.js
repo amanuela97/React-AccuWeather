@@ -22,7 +22,7 @@ export const structureData = (data, type) => {
 export const getDynamicData = (forecast, type) => {
   const data = {};
   if (forecast[type].HasPrecipitation) {
-    data.PrecipitationType = forecast[type].PrecipitationType + '%';
+    data.PrecipitationType = forecast[type].PrecipitationType;
   } else {
     data.RainProbability = forecast[type].RainProbability + '%';
   }
